@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/joni.png</file>
+        <file>res/LCD-lowres.png</file>
+        <file>res/IBM5155-chan-lowres.png</file>
+    </qresource>
+</RCC>
